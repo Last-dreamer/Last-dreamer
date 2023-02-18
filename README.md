@@ -1,26 +1,29 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asim</h1>
 <h3 align="center">A passionate Mobile Software developer from Pakistan</h3>
 
-- 🔭 I have worked on Quick swappers app : [Quick Swappers](https://play.google.com/store/apps/details?id=com.noman.quickSwapper) 
+- 🔭 I have worked on Quick swappers app [IOS](https://apps.apple.com/pk/app/quick-swappers/id1585131031) and  [Android](https://play.google.com/store/apps/details?id=com.noman.quickSwapper) 
      
--🔭 I have worked on Quick biznes app [Quick biznes](https://play.google.com/store/apps/details?id=com.sherikhan5577.biznes)
+-🔭 I have worked on Quick biznes app [IOS](https://apps.apple.com/pk/app/quick-bizness/id1573737102) and [Android](https://play.google.com/store/apps/details?id=com.sherikhan5577.biznes)
 
+-🔭 I have worked on LaunchArts Media app [IOS](soon ) and [Android](https://play.google.com/store/apps/details?id=com.launchArtmedia.lauch_art_media)
+
+-  and alot other apps.
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [repos](https://github.com/flutterdevtaha)
+- 👨‍💻 All of my projects are available at [repos](https://github.com/Last-dreamer)
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **Flutter, Dart, Java, JavaScript**
 
-- 📫 How to reach me **flutterdev.taha.saad@gmail.com**
+- 📫 How to reach me **asim0000.ak@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1iklNAoX2UcgidqbHwH7tBXpNGRnCTegX?usp=sharing)
+- 📄 Know about my experiences [Resume]()
 
-- ⚡ Fun fact **I love walking for a long time.**
+- ⚡ Fun fact **I love coding and learning new technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/flutterdevtaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flutterdevtaha" height="30" width="40" /></a>
+<a href="https://twitter.com/lost2dreamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flutterdevtaha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/flutterdevtaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/flutterdevtaha/" height="30" width="40" /></a>
 <a href="https://fb.com/flutterdevtaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="flutterdevtaha" height="30" width="40" /></a>
 <a href="https://instagram.com/programmer_taha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmer_taha" height="30" width="40" /></a>
