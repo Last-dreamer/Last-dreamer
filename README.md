@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asim</h1>
-<h3 align="center">A passionate Mobile Software developer from Pakistan</h3>
+<h3 align="center">A passionate Mobile Software developer</h3>
 
  🔭 I have worked on Quick swappers app [IOS](https://apps.apple.com/pk/app/quick-swappers/id1585131031) and  [Android](https://play.google.com/store/apps/details?id=com.noman.quickSwapper) 
      
