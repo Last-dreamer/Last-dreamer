@@ -1,101 +1,147 @@
-<!-- ===================== HEADER ===================== -->
-<a href="https://asimkhan.dev">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Muhammad%20Asim&fontSize=70&fontAlignY=35&desc=Lead%20Software%20Engineer%20%E2%80%A2%20AI%20%26%20Automation%20Builder&descAlignY=58&descAlign=50&animation=fadeIn&fontColor=ffffff" alt="header banner" />
-</a>
+<!-- ====== NEON HEADER ====== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=180&section=header&text=%E2%9A%A1%20MUHAMMAD%20ASIM%20%E2%9A%A1&fontSize=58&fontColor=00F0FF&fontAlignY=50&desc=%3E%20LEAD_ENGINEER.exe%20%7C%7C%20AI_OPERATOR.sys%20%7C%7C%20%2F%2F_NIGHT_CITY%2C_UAE&descAlignY=80&descAlign=50&animation=twinkling" />
+</div>
 
-<p align="center">
-  <a href="https://asimkhan.dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=720&lines=Lead+Software+Engineer+%40+Drivys+%F0%9F%9A%80;Building+production+platforms+with+Flutter+%2B+Golang;Shipping+AI%2FLLM+features+%26+WhatsApp%2FIG+automations;7%2B+years+%E2%80%A2+23%2B+products+shipped+%E2%80%A2+UAE+%F0%9F%87%A6%F0%9F%87%AA" alt="typing intro" /></a>
-</p>
+<!-- ====== GLITCH SUBTITLE / TYPING ====== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=30&duration=2200&pause=600&color=FF2A6D&center=true&vCenter=true&multiline=false&width=900&height=60&lines=%3E+initializing+net_runner...;%3E+jacking+into+the+grid+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%3E+identity%3A+M.+ASIM+%2F%2F+lead_software_engineer;%3E+stack%3A+flutter+%E2%80%A2+golang+%E2%80%A2+llms+%E2%80%A2+next.js;%3E+status%3A+shipping+code+%40+drivys+%7C%7C+yotto.health;%3E+wake+the+fuck+up%2C+samurai.+we+have+a+city+to+burn." />
+</div>
 
-<p align="center">
-  <a href="https://asimkhan.dev"><img src="https://img.shields.io/badge/Portfolio-asimkhan.dev-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/lost2dreamer/"><img src="https://img.shields.io/badge/LinkedIn-lost2dreamer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:asim0000.ak@gmail.com"><img src="https://img.shields.io/badge/Email-asim0000.ak%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/lost2dreamer"><img src="https://img.shields.io/badge/X-@lost2dreamer-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Last-dreamer&label=Profile%20views&color=22c55e&style=for-the-badge" />
-</p>
+<br />
 
-<!-- ===================== ABOUT ===================== -->
-## <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" /></picture> About me
+<!-- ====== NEON BADGES ====== -->
+<div align="center">
+  <a href="https://asimkhan.dev"><img src="https://img.shields.io/badge/%E2%96%B6_PORTFOLIO-asimkhan.dev-FF2A6D?style=for-the-badge&labelColor=0D0221&logoColor=05D9E8" /></a>
+  <a href="https://www.linkedin.com/in/lost2dreamer/"><img src="https://img.shields.io/badge/%E2%96%B6_LINKEDIN-lost2dreamer-05D9E8?style=for-the-badge&labelColor=0D0221" /></a>
+  <a href="mailto:asim0000.ak@gmail.com"><img src="https://img.shields.io/badge/%E2%96%B6_MAIL-asim0000.ak%40gmail-F9F002?style=for-the-badge&labelColor=0D0221" /></a>
+  <a href="https://twitter.com/lost2dreamer"><img src="https://img.shields.io/badge/%E2%96%B6_X-@lost2dreamer-B100FF?style=for-the-badge&labelColor=0D0221" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Last-dreamer&label=NEURAL+PINGS&color=FF2A6D&style=for-the-badge" />
+</div>
 
-```yaml
-name:        Muhammad Asim
-role:        Lead Software Engineer @ Drivys (UAE)
-also:        Software Engineer @ Yotto Health (Dubai, Remote)
-based_in:    Abu Dhabi / Al Ain, UAE 🇦🇪
-focus:
-  - End-to-end product engineering (web · mobile · backend · cloud)
-  - AI / LLM integration (RAG, agents, function calling)
-  - Conversational automation (WhatsApp · Instagram · Telegram)
-  - Real-time, multi-tenant SaaS & enterprise dashboards
-fun_fact:    "I don't just ship code that runs — I ship features that move the business."
+<br />
+
+<!-- ====== ANIMATED CYBERPUNK BANNER GIF ====== -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" height="3px" />
+</div>
+
+<!-- ====== ABOUT // TERMINAL ====== -->
+<h2>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35" />
+  <span style="color:#FF2A6D">[</span> <code>./whoami.sh</code> <span style="color:#FF2A6D">]</span>
+</h2>
+
+```bash
+╔══════════════════════════════════════════════════════════════╗
+║  user@nightcity:~$ cat ./asim.profile                        ║
+╠══════════════════════════════════════════════════════════════╣
+║  > handle........... M. ASIM // @Last-dreamer                ║
+║  > class............ LEAD SOFTWARE ENGINEER                  ║
+║  > affiliation...... DRIVYS.corp + YOTTO.health              ║
+║  > coords........... ABU DHABI / AL AIN — UAE  [+04:00]      ║
+║  > years_jacked_in.. 7+                                      ║
+║  > ships............ 23+ production-grade products           ║
+║  > specialty........ FULL-STACK · AI/LLM · BOT_AUTOMATION    ║
+║  > weapon_of_choice. flutter // golang // next.js // claude  ║
+║  > motto............ "ship code that moves the business"    ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-I'm a Software Engineer turning ambitious ideas into scalable, production-grade software. **7+ years**, **23+ shipped products** across web, mobile, backend, AI integrations, and bot automations — including real-time platforms, multi-tenant SaaS, and enterprise dashboards for teams across the UAE and beyond.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
-<!-- ===================== STACK ===================== -->
-## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="28"> My Stack
+> ```diff
+> + I architect platforms that scale and bots that don't sleep.
+> + Real-time SaaS · multi-tenant dashboards · LLM-powered ops.
+> + WhatsApp / Instagram / Telegram automations on tap.
+> - I don't ship code that "just runs". I ship leverage.
+> ```
 
-<table>
-<tr><td valign="top" width="50%">
+<br clear="right"/>
 
-**Frontend**
+<!-- ====== NEON DIVIDER ====== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,2,12&height=4&section=header" width="100%" />
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,tailwind,sass,bootstrap,html,css" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux"/>
-</p>
+<!-- ====== STACK // ARSENAL ====== -->
+<h2>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35" />
+  <span>[</span> <code>./arsenal.sh --load</code> <span>]</span>
+</h2>
 
-**Mobile**
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio" />
-</p>
-
-**AI & Automation**
-
-`LLM Integration` · `RAG Pipelines` · `Anthropic / Claude` · `OpenAI / GPT` · `LangChain` · `Vector DBs` · `Function Calling` · `n8n` · `Zapier` · `WhatsApp Business API` · `Instagram Graph API` · `Telegram Bots` · `Twilio`
-
-</td><td valign="top" width="50%">
-
-**Backend**
-
-<p>
-<img src="https://skillicons.dev/icons?i=go,nodejs,nestjs,express,python,fastapi,php,laravel" />
-</p>
-
-**Databases**
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,prisma,firebase" />
-</p>
-
-**DevOps & Cloud**
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,azure,gcp,linux,bash,git,github,grafana,prometheus" />
-</p>
-
-</td></tr>
+<table align="center">
+<tr>
+  <td align="center" colspan="2">
+    <b>// FRONT_END.modules</b><br/>
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,tailwind,sass,bootstrap,html,css,redux&perline=11" />
+  </td>
+</tr>
+<tr>
+  <td align="center" width="50%">
+    <b>// MOBILE.engines</b><br/>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio" />
+  </td>
+  <td align="center" width="50%">
+    <b>// BACKEND.cores</b><br/>
+    <img src="https://skillicons.dev/icons?i=go,nodejs,nestjs,express,python,fastapi,php,laravel&perline=8" />
+  </td>
+</tr>
+<tr>
+  <td align="center" width="50%">
+    <b>// DATA.shards</b><br/>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,prisma,firebase" />
+  </td>
+  <td align="center" width="50%">
+    <b>// CLOUD.netrunner</b><br/>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,azure,gcp,linux,bash,git,github,grafana,prometheus&perline=12" />
+  </td>
+</tr>
+<tr>
+  <td align="center" colspan="2">
+    <b>// AI.cortex + AUTOMATION.daemons</b><br/><br/>
+    <img src="https://img.shields.io/badge/-Anthropic_Claude-FF2A6D?style=flat-square&labelColor=0D0221" />
+    <img src="https://img.shields.io/badge/-OpenAI_GPT-05D9E8?style=flat-square&labelColor=0D0221" />
+    <img src="https://img.shields.io/badge/-LangChain-B100FF?style=flat-square&labelColor=0D0221" />
+    <img src="https://img.shields.io/badge/-RAG-F9F002?style=flat-square&labelColor=0D0221" />
+    <img src="https://img.shields.io/badge/-Vector_DBs-FF2A6D?style=flat-square&labelColor=0D0221" />
+    <img src="https://img.shields.io/badge/-Function_Calling-05D9E8?style=flat-square&labelColor=0D0221" />
+    <img src="https://img.shields.io/badge/-n8n-B100FF?style=flat-square&labelColor=0D0221" />
+    <img src="https://img.shields.io/badge/-Zapier-F9F002?style=flat-square&labelColor=0D0221" />
+    <img src="https://img.shields.io/badge/-WhatsApp_API-FF2A6D?style=flat-square&labelColor=0D0221" />
+    <img src="https://img.shields.io/badge/-Instagram_API-05D9E8?style=flat-square&labelColor=0D0221" />
+    <img src="https://img.shields.io/badge/-Telegram_Bots-B100FF?style=flat-square&labelColor=0D0221" />
+    <img src="https://img.shields.io/badge/-Twilio-F9F002?style=flat-square&labelColor=0D0221" />
+  </td>
+</tr>
 </table>
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
-## <img src="https://media.giphy.com/media/W3QKEujo8vztC/giphy.gif" width="28"> Featured Projects
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" height="3px" />
+</div>
 
-<table>
+<!-- ====== MISSIONS / PROJECTS ====== -->
+<h2>
+  <img src="https://media.giphy.com/media/W3QKEujo8vztC/giphy.gif" width="35" />
+  <span>[</span> <code>./missions.log --featured</code> <span>]</span>
+</h2>
+
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 💎 [Uno Luxury](https://uno-luxury.com)
-The world's largest private luxury collection — high-performance, editorial e-commerce. Sub-2s LCP on the home page, checkout tuned for high-ticket transactions.
+#### `> MISSION_01` — [💎 UNO LUXURY](https://uno-luxury.com)
+> _The world's largest private luxury collection._
+> Editorial e-commerce. **Sub-2s LCP**. High-ticket checkout.
 
-`Next.js` · `TypeScript` · `Tailwind` · `Node.js` · `PostgreSQL` · `Stripe`
+`Next.js` · `TypeScript` · `Tailwind` · `Node.js` · `Postgres` · `Stripe`
 
 </td>
 <td width="50%" valign="top">
 
-### 🚗 [Drivys](https://drivys.com)
-Driving-school ecosystem for the UAE — **3 production apps** (Student iOS/Android · Partner Android · Web). Real-time booking, in-app wallet, EN/AR/UR.
+#### `> MISSION_02` — [🚗 DRIVYS](https://drivys.com)
+> _Driving-school grid for the UAE._
+> **3 production apps**. Real-time booking. EN / AR / UR.
 
 `Flutter` · `Golang/Gin` · `Next.js` · `MySQL` · `Docker` · `Firebase`
 
@@ -104,82 +150,113 @@ Driving-school ecosystem for the UAE — **3 production apps** (Student iOS/Andr
 <tr>
 <td width="50%" valign="top">
 
-### 🏘️ [Aqary International](https://aqaryint.com)
-Real-estate platform with custom map integration, Socket.io live notifications, Kubernetes-orchestrated microservices on Azure.
+#### `> MISSION_03` — [🏘️ AQARY INTERNATIONAL](https://aqaryint.com)
+> _Real-estate netrunner platform._
+> Custom maps · Socket.io live · K8s on Azure.
 
 `Flutter` · `Next.js` · `Golang` · `Kubernetes` · `Azure` · `Socket.io`
 
 </td>
 <td width="50%" valign="top">
 
-### 🩺 [Yotto Health](https://yotto.health)
-AI-powered diabetes-management assistant. On-device Pi 4 LLM for privacy-preserving health insights, HIPAA-aware data handling.
+#### `> MISSION_04` — [🩺 YOTTO HEALTH](https://yotto.health)
+> _AI cortex for diabetes management._
+> **On-device LLM** · HIPAA-aware · privacy-first.
 
-`Flutter` · `Golang` · `Python` · `FastAPI` · `Pi 4 LLM` · `PostgreSQL`
+`Flutter` · `Golang` · `Python` · `FastAPI` · `Pi-4 LLM` · `Postgres`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎟️ [FreeCouponSaver](https://freecouponsaver.com)
-Solo build — automated Udemy coupon aggregator. Colly scraping pipeline, SvelteKit frontend, sub-second loads.
+#### `> MISSION_05` — [🎟️ FREECOUPONSAVER](https://freecouponsaver.com)
+> _Solo build — daemon-grade Udemy aggregator._
+> Colly scraper · SvelteKit · sub-second loads.
 
 `SvelteKit` · `Golang/Gin` · `Colly` · `Nginx`
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 LMS + ERP for Drivys
-Internal platforms — microservices on Kubernetes, Flutter mobile, role-based access. **80% performance improvement** through optimization.
+#### `> MISSION_06` — `LMS + ERP // DRIVYS`
+> _Internal control panels._
+> Microservices · K8s · RBAC. **+80% perf gains.**
 
-`Flutter` · `Golang` · `PostgreSQL` · `Kubernetes` · `Azure`
+`Flutter` · `Golang` · `Postgres` · `Kubernetes` · `Azure`
 
 </td>
 </tr>
 </table>
 
-<p align="right"><a href="https://asimkhan.dev"><b>→ See all projects on asimkhan.dev</b></a></p>
+<p align="right"><a href="https://asimkhan.dev"><img src="https://img.shields.io/badge/%E2%96%B6%E2%96%B6_DECRYPT_FULL_DOSSIER-asimkhan.dev-FF2A6D?style=for-the-badge&labelColor=0D0221" /></a></p>
 
-<!-- ===================== GITHUB STATS ===================== -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub in Numbers
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" height="3px" />
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Last-dreamer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Last-dreamer&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e" />
-</p>
+<!-- ====== STATS // VITALS ====== -->
+<h2>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" />
+  <span>[</span> <code>./vitals.sh --scan</code> <span>]</span>
+</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Last-dreamer&theme=tokyonight&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
-</p>
+<div align="center">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Last-dreamer&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0221&title_color=FF2A6D&icon_color=05D9E8&text_color=F9F002" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Last-dreamer&layout=compact&langs_count=10&theme=synthwave&hide_border=true&bg_color=0D0221&title_color=FF2A6D&text_color=05D9E8" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Last-dreamer&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Last-dreamer&theme=synthwave&hide_border=true&background=0D0221&ring=FF2A6D&fire=F9F002&currStreakLabel=05D9E8&sideLabels=05D9E8&dates=B100FF&currStreakNum=FF2A6D&sideNums=FF2A6D" />
+</div>
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
-## <img src="https://media.giphy.com/media/RkPZGfttsdpvA0qXfa/giphy.gif" width="28"> Contribution Activity
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Last-dreamer&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Last-dreamer&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" />
-</p>
+<!-- ====== ACTIVITY GRAPH ====== -->
+<h2>
+  <img src="https://media.giphy.com/media/RkPZGfttsdpvA0qXfa/giphy.gif" width="35" />
+  <span>[</span> <code>./neural_uplink.graph</code> <span>]</span>
+</h2>
 
-<!-- snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Last-dreamer/Last-dreamer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Last-dreamer/Last-dreamer/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Last-dreamer/Last-dreamer/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Last-dreamer&bg_color=0D0221&color=05D9E8&line=FF2A6D&point=F9F002&area=true&area_color=FF2A6D&hide_border=true&custom_title=NEURAL+UPLINK+%2F%2F+contribution_grid" />
+</div>
 
-<!-- ===================== CONNECT ===================== -->
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="28"> Let's build something
+<!-- ====== SNAKE ====== -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Last-dreamer/Last-dreamer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Last-dreamer/Last-dreamer/output/github-snake.svg" />
+    <img alt="snake daemon" src="https://raw.githubusercontent.com/Last-dreamer/Last-dreamer/output/github-snake.svg" />
+  </picture>
+</div>
 
-<p>
-  💼  Open to <b>collaborations</b>, <b>contract work</b>, and <b>open-source contributions</b><br/>
-  📩  Reach me at <a href="mailto:asim0000.ak@gmail.com"><b>asim0000.ak@gmail.com</b></a><br/>
-  🌐  Portfolio · case studies · testimonials → <a href="https://asimkhan.dev"><b>asimkhan.dev</b></a>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" height="3px" />
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=%22I%20build%20features%20that%20move%20the%20business%2C%20not%20just%20code%20that%20runs.%22&fontSize=14&fontColor=ffffff&fontAlignY=70&animation=fadeIn" />
-</p>
+<!-- ====== CONNECT // UPLINK ====== -->
+<h2>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35" />
+  <span>[</span> <code>./open_uplink.sh</code> <span>]</span>
+</h2>
+
+```bash
+> STATUS....... ACCEPTING_CONTRACTS [✓]
+> CHANNELS..... mail · linkedin · x
+> RESPONSE..... < 24h_uplink_latency
+> CURRENCY..... USD · AED · 💸
+> AVAILABILITY. collab // contract // open-source
+```
+
+<div align="center">
+  <a href="mailto:asim0000.ak@gmail.com"><img src="https://img.shields.io/badge/%E2%96%B6_SEND_TRANSMISSION-asim0000.ak%40gmail.com-FF2A6D?style=for-the-badge&labelColor=0D0221" /></a>
+  <a href="https://asimkhan.dev"><img src="https://img.shields.io/badge/%E2%96%B6_VISIT_GRID-asimkhan.dev-05D9E8?style=for-the-badge&labelColor=0D0221" /></a>
+</div>
+
+<!-- ====== NEON FOOTER ====== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,12&height=160&section=footer&text=%22wake%20the%20f*ck%20up%2C%20samurai.%20we%20have%20code%20to%20ship.%22&fontSize=16&fontColor=05D9E8&fontAlignY=70&animation=twinkling" />
+</div>
